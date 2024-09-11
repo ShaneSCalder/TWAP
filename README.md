@@ -104,5 +104,3 @@ If you want to execute a TWAP strategy for `BTCUSDT` over 1 hour, with a total t
 This project is open-source and available for modification and distribution under the MIT License.
 ```
 
-
-Let me know if you need any changes or additional details!
