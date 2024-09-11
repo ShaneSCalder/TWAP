@@ -104,15 +104,5 @@ If you want to execute a TWAP strategy for `BTCUSDT` over 1 hour, with a total t
 This project is open-source and available for modification and distribution under the MIT License.
 ```
 
-### **Explanation of the README.md**:
-
-- **Overview**: Describes the purpose of the project and the TWAP strategy.
-- **Setup Instructions**: Includes installation instructions for both Python and Node.js environments.
-- **Parameters**: Explains key parameters used in the TWAP strategy.
-- **Example**: Provides a real-world example of how to configure and run the strategy.
-- **.env Setup**: Guides users to safely store API keys using `.env` for both Python and Node.js.
-- **License**: Includes an open-source license for clarity.
-
-This `README.md` provides a comprehensive guide for setting up and running both Python and Node.js versions of your TWAP strategy.
 
 Let me know if you need any changes or additional details!
