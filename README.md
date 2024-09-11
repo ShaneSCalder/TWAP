@@ -2,7 +2,7 @@
 
 ### TWAP 
 
-```markdown
+
 # TWAP (Time-Weighted Average Price) Strategy
 
 This project implements a dynamic Time-Weighted Average Price (TWAP) strategy for executing trades on Binance. The strategy splits a large trade into smaller, evenly sized portions executed over time, adjusting for slippage dynamically.
@@ -102,5 +102,5 @@ If you want to execute a TWAP strategy for `BTCUSDT` over 1 hour, with a total t
 ## License
 
 This project is open-source and available for modification and distribution under the MIT License.
-```
+
 
